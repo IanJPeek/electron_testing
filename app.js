@@ -2,6 +2,8 @@
 const url = require("url");
 const path = require("path");
 
+//FROM: - https://www.electronjs.org/docs/tutorial/notifications
+
 const { app, BrowserWindow } = require("electron");
 
 // Keep a global reference of the window object, if you
